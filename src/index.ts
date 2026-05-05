@@ -37,3 +37,4 @@ export type { Pet } from './models/pet.js';
 export { PetStatus } from './models/petStatus.js';
 export type { Tag } from './models/tag.js';
 export type { User } from './models/user.js';
+export { TokenRotationManager } from './tokenRotationManager.js';

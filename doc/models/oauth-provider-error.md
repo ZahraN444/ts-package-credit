@@ -3,7 +3,7 @@
 
 OAuth 2 Authorization endpoint exception.
 
-*This model accepts additional fields of type unknown.*
+*This model accepts additional fieldsss of type unknown.*
 
 ## Structure
 

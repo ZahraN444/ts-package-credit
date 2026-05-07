@@ -20,10 +20,10 @@ Find out more about Swagger: [https://swagger.io](https://swagger.io)
 Run the following command from your project directory to install the package from npm:
 
 ```bash
-npm install ts-package-credit@1.0.3
+npm install ts-package-credit@1.0.4
 ```
 
-For additional package details, see the [Npm page for the ts-package-credit@1.0.3 npm](https://www.npmjs.com/package/ts-package-credit/v/1.0.3).
+For additional package details, see the [Npm page for the ts-package-credit@1.0.4 npm](https://www.npmjs.com/package/ts-package-credit/v/1.0.4).
 
 ## Initialize the API Client
 
